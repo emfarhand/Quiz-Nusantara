@@ -51,10 +51,9 @@ javac src/javaquiz/*.java src/multiuserlogin/*.java
 java javaquiz.JavaQuiz
 Make sure your terminal path is in the project root directory when running these commands.
 
----
+```
 
 ## 📬 Contact
 
 Email: farhanlangsa003@gmail.com
 LinkedIn: linkedin.com/in/emfarhand
-```
